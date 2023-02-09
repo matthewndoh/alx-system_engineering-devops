@@ -8,3 +8,4 @@
 7-everybody is for all
 8-James_Bond is for removing permissions
 9-John_Doe is for set mode
+10-mirror_permissions is for mirror permissions
