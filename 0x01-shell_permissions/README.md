@@ -9,3 +9,4 @@
 8-James_Bond is for removing permissions
 9-John_Doe is for set mode
 10-mirror_permissions is for mirror permissions
+12-directory_permissions is for make directory script
