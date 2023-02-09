@@ -7,3 +7,4 @@
 6-multiple_permissions is for mltiple permissions
 7-everybody is for all
 8-James_Bond is for removing permissions
+9-John_Doe is for set mode
