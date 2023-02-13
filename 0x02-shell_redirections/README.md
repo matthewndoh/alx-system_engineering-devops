@@ -19,3 +19,4 @@
 18-letteronly is for lines of letter
 20-hiago is for tr
 19-AZ is for tr replace
+21-reverse is for reverse
