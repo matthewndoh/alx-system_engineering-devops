@@ -17,3 +17,4 @@
 16-whatsnext is for pattern
 17-hidethisword is for inverse
 18-letteronly is for lines of letter
+20-hiago is for tr
