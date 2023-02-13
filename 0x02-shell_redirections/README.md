@@ -18,3 +18,4 @@
 17-hidethisword is for inverse
 18-letteronly is for lines of letter
 20-hiago is for tr
+19-AZ is for tr replace
