@@ -14,3 +14,4 @@
 13-unique is for sorting
 14-findthatword is for grep
 15-countthatword is for count lines
+16-whatsnext is for pattern
