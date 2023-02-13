@@ -15,3 +15,4 @@
 14-findthatword is for grep
 15-countthatword is for count lines
 16-whatsnext is for pattern
+17-hidethisword is for inverse
