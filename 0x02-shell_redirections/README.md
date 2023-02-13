@@ -10,3 +10,4 @@
 9-duplicate_last_line is for adding duplicate
 10-no_more_js deltes extensions
 11-directories is for count
+12-newest_files is for new files
