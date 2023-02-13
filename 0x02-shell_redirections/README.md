@@ -11,3 +11,4 @@
 10-no_more_js deltes extensions
 11-directories is for count
 12-newest_files is for new files
+13-unique is for sorting
