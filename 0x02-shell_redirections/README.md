@@ -4,3 +4,4 @@
 3-twofiles is to display two files
 4-lastlines is for tail listing
 5-firstlines is for head listing
+6-third_line prints 3rd line only
