@@ -6,3 +6,4 @@
 5-firstlines is for head listing
 6-third_line prints 3rd line only
 7-file is for special characters
+8-cwd_state is for output command
