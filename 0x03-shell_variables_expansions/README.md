@@ -9,3 +9,4 @@
 8-true_knowledge is for adding script
 9-divide_and_rule is for division
 10-love_exponent_breath prints power of
+11-binary_to_decimal prints base to base
