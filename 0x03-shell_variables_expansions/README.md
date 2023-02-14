@@ -12,4 +12,5 @@
 11-binary_to_decimal prints base to base
 12-combinations printspossible combinations
 13-print_float prints two decimal places
-100-decimal_to_hexadecimal prints hexadecimal
+100-decimal_to_hexadecimal prints hexadec
+101-rot13imal is for encryption
